@@ -3,6 +3,7 @@
 
     $('.button-collapse').sideNav();
     $('.slider').slider();
+    $('.modal').modal();
   
 
   }); // end of document ready
